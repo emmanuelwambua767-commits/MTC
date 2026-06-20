@@ -17,7 +17,7 @@ Database tables:1.Books
 2. Authors:-
           a)Author_id(pk)
           b)Author name
-          c)Email address
+          c)Email
           d)Phone number
 
 3. Students:-
