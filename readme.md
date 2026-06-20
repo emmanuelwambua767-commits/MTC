@@ -23,8 +23,9 @@ Database tables:1.Books
 3. Students:-
           a)Student_id(pk)
           b)Full Name
-          c)Course
-          d)Phone number
+          c)Email
+          d)Course
+          e)Phone number
 
 4. Borrowing:-
           a)Student_id(fk)
